@@ -2,7 +2,8 @@
 
 In these case examples, I employed the package cvxpy, an open source Python-embedded modeling language, to solve convex optimization problems. 
 
-Some of these problems include supply chain routes, storage, and revenue optimization. 
+**Case Problems**: supply chain routes, storage, and revenue optimization. 
+---
 
 Some of the solutions for these convex optimization problems are as follows:
 
