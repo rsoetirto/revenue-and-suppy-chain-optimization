@@ -7,6 +7,7 @@ In these case examples, I employed the package cvxpy, an open source Python-embe
 
 Some of the solutions for these convex optimization problems are as follows:
 <br>
+<br>
 
 
 🏭 **1. Table detailing the optimal amount of raw ingredients that a factory can buy and store based on the busines model's constraint:**
