@@ -1,6 +1,6 @@
 # Optimization
 
-In these case examples, I employed the package cvxpy, an open source Python-embedded modeling language, to solve convex optimization problems. The case problems, seperated into part 1 and part 2 answer questions related to supply chain, resource allocation, finance, and investment showing the wide array of functions that the package cvxpy can help solve.
+In these case examples, I employed the package cvxpy, an open source Python-embedded modeling language, to solve convex optimization problems. The case problems, divided into Part 1 and Part 2, address questions related to supply chain, resource allocation, finance, and investment. This demonstrates the diverse range of functions that the cvxpy package can assist in solving.
 
 **Case Problems**
 ---
