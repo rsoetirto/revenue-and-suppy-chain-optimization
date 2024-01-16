@@ -14,12 +14,14 @@ Some of the solutions for these convex optimization problems are as follows:
 <br>
 </br>
 
+
 👨‍🏭 **2. Solvers for Profit/Revenue Strategy**
 
 <img width="970" alt="Screenshot 2024-01-15 at 1 46 02 AM" src="https://github.com/rsoetirto/supply-chain-optimization/assets/109045573/30a8481a-875e-4498-af90-c9f85da9d9fb">
 
 <br>
 </br>
+
 
 💰 **3. Bond Dedication**
 
