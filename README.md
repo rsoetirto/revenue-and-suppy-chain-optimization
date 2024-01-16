@@ -16,8 +16,12 @@ Some of the solutions for these convex optimization problems are as follows:
 
 <img width="970" alt="Screenshot 2024-01-15 at 1 46 02 AM" src="https://github.com/rsoetirto/supply-chain-optimization/assets/109045573/30a8481a-875e-4498-af90-c9f85da9d9fb">
 
+<br>
+
 **3. Bond Dedication**
 ![Screenshot 2024-01-16 at 12 11 43 PM](https://github.com/rsoetirto/revenue-and-suppy-chain-optimization/assets/109045573/d8cbe300-e70c-4b42-984e-0aac4951933a)
+
+<br>
 
 **4. Quadratic Asset Allocation**
 ![Screenshot 2024-01-16 at 12 11 23 PM](https://github.com/rsoetirto/revenue-and-suppy-chain-optimization/assets/109045573/688137a5-d095-48c5-ac16-b77ec7aeea11)
